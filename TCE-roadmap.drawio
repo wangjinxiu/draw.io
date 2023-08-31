@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-08-30T07:13:51.669Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="QQJuoW1A13KDGwLbrA3W" version="21.6.9" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-31T02:42:17.834Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="vs-PAhRJP5Yn2US8qdEL" version="21.6.9" type="github">
   <diagram id="LPxzDfarXafkQE6jDnBZ" name="Page-1">
-    <mxGraphModel dx="1240" dy="209" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1395" dy="285" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -23,7 +23,7 @@
           <mxGeometry x="666" y="636" width="400" height="158" as="geometry" />
         </mxCell>
         <mxCell id="44" value="&lt;font style=&quot;font-size: 10px&quot;&gt;&lt;font style=&quot;font-size: 12px&quot; color=&quot;#23445D&quot;&gt;&lt;b&gt;v6.1.0&lt;/b&gt;&lt;/font&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=1;strokeColor=none;fillColor=#DDDDDD;align=center;arcSize=12;verticalAlign=top;whiteSpace=wrap;html=1;fontSize=12;" parent="1" vertex="1">
-          <mxGeometry x="954" y="864" width="341" height="180" as="geometry" />
+          <mxGeometry x="954" y="864" width="341" height="190" as="geometry" />
         </mxCell>
         <mxCell id="45" value="&lt;font style=&quot;font-size: 10px&quot;&gt;&lt;font style=&quot;font-size: 12px&quot; color=&quot;#12AAB5&quot;&gt;&lt;b&gt;v5.7.0&lt;/b&gt;&lt;/font&gt;&lt;br&gt;v5.6.0 版本之上的客户需求支持&lt;br&gt;&lt;/font&gt;" style="rounded=1;strokeColor=none;fillColor=#DDDDDD;align=center;arcSize=7;verticalAlign=top;whiteSpace=wrap;html=1;fontSize=12;" parent="1" vertex="1">
           <mxGeometry x="1080" y="741" width="161" height="50" as="geometry" />
@@ -31,10 +31,10 @@
         <mxCell id="47" value="&lt;font style=&quot;font-size: 10px&quot;&gt;&lt;font style=&quot;font-size: 12px&quot; color=&quot;#F2931E&quot;&gt;&lt;b&gt;v5.6.1&lt;br&gt;&lt;/b&gt;&lt;/font&gt;发布 fixpack 版本，提供 v5.6.0 的升级支持&lt;br&gt;&lt;/font&gt;" style="rounded=1;strokeColor=none;fillColor=#DDDDDD;align=center;arcSize=12;verticalAlign=top;whiteSpace=wrap;html=1;fontSize=12;" parent="1" vertex="1">
           <mxGeometry x="290" y="929" width="221" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="48" value="1、多云资源融合&lt;br&gt;2、产品升级可视化&lt;br&gt;3、应用备份及恢复&lt;br&gt;4、应用可视化架构图&amp;nbsp;&lt;br&gt;5、自定义弹性及调度策略&lt;br&gt;6、完善两地三中心产品实现&lt;br&gt;7、跨K8S集群网络方案&lt;br&gt;8、集成 KEDA&amp;nbsp;事件管理能力&lt;br&gt;9、OAM 组件引入，优化应用模型" style="text;html=1;" parent="1" vertex="1">
+        <mxCell id="48" value="1、多云资源融合&lt;br&gt;2、产品升级可视化&lt;br&gt;3、应用备份及恢复&lt;br&gt;4、应用可视化架构图&amp;nbsp;&lt;br&gt;5、自定义弹性及调度策略&lt;br&gt;6、完善两地三中心产品实现&lt;br&gt;7、跨K8S集群网络方案&lt;br&gt;8、巡检能力&lt;br&gt;9、OAM 组件引入，优化应用模型" style="text;html=1;" parent="1" vertex="1">
           <mxGeometry x="676" y="652.5" width="198" height="125" as="geometry" />
         </mxCell>
-        <mxCell id="51" value="1、产品运营能力，多云下的降本增效&lt;br&gt;2、安全容器支持，兼顾统一模型及安全隔离&lt;br&gt;3、支持 Cilium 网络插件（eBPF)&lt;br&gt;4、平台组件的完整观测能力&lt;br&gt;5、升级 K8S 到最新的 1.25.x fixpack&lt;br&gt;裸金属及基础设施&lt;br&gt;1、裸金属基础设施管理能力&lt;br&gt;2、内置操作系统（OpenEular），适配高版本内核4.x&lt;br&gt;3、基于对象存储的文件系统，为大数据、AI提供存储支撑&lt;br&gt;4、结合场景的硬件加速能力（GPU、DPU），视频渲染等" style="text;html=1;" parent="1" vertex="1">
+        <mxCell id="51" value="1、产品运营能力，多云下的降本增效&lt;br&gt;2、安全容器支持，兼顾统一模型及安全隔离&lt;br&gt;3、支持 Cilium 网络插件（eBPF)&lt;br&gt;4、平台组件的完整观测能力&lt;br&gt;5、升级 K8S 到最新的 1.25.x fixpack&lt;br&gt;6、集成 KEDA&amp;nbsp;事件管理能力&lt;br&gt;裸金属及基础设施&lt;br&gt;1、裸金属基础设施管理能力&lt;br&gt;2、内置操作系统（OpenEular），适配高版本内核4.x&lt;br&gt;3、基于对象存储的文件系统，为大数据、AI提供存储支撑&lt;br&gt;4、结合场景的硬件加速能力（GPU、DPU），视频渲染等" style="text;html=1;" parent="1" vertex="1">
           <mxGeometry x="980" y="882" width="315" height="144" as="geometry" />
         </mxCell>
         <mxCell id="52" value="&lt;b style=&quot;color: rgb(242 , 147 , 30)&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; v5.4.x&lt;/b&gt;&lt;font color=&quot;#10739e&quot;&gt;&lt;span&gt;&lt;br&gt;&lt;/span&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=1;strokeColor=none;fillColor=#DDDDDD;align=left;arcSize=12;verticalAlign=top;whiteSpace=wrap;html=1;fontSize=12;fontStyle=1" parent="1" vertex="1">
@@ -44,15 +44,15 @@
           <mxGeometry x="103" y="730" width="108" height="56" as="geometry" />
         </mxCell>
         <mxCell id="54" value="10、集群证书管理（更新、续约）&lt;br&gt;11、日志组件替换及优化&lt;br&gt;12、增加调试容器&lt;br&gt;13、容器网络可视化&lt;br&gt;14、镜像扫描架构(P2P)、漏洞库升级&lt;br&gt;15、兼容 cluster-api 进行多集群管理&lt;br&gt;16、升级 K8S 到 v1.25.x&lt;br&gt;17、自定义指标监控&lt;br&gt;18、组件方式融合进入 kubebb" style="text;html=1;" parent="1" vertex="1">
-          <mxGeometry x="863" y="655" width="203" height="113" as="geometry" />
+          <mxGeometry x="863" y="655" width="203" height="137" as="geometry" />
         </mxCell>
-        <mxCell id="-q0yBH8kULaY815FXZMG-54" value="2024" style="shape=mxgraph.infographic.ribbonSimple;notch1=0;notch2=10;notch=0;html=1;fillColor=#66B2FF;strokeColor=none;shadow=0;fontSize=17;fontColor=#FFFFFF;align=left;spacingLeft=10;fontStyle=1;" vertex="1" parent="1">
+        <mxCell id="-q0yBH8kULaY815FXZMG-54" value="2024" style="shape=mxgraph.infographic.ribbonSimple;notch1=0;notch2=10;notch=0;html=1;fillColor=#66B2FF;strokeColor=none;shadow=0;fontSize=17;fontColor=#FFFFFF;align=left;spacingLeft=10;fontStyle=1;" parent="1" vertex="1">
           <mxGeometry x="1087" y="810" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="-q0yBH8kULaY815FXZMG-55" value="&lt;b style=&quot;color: rgb(242 , 147 , 30)&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; v5.6.0&lt;/b&gt;&lt;font color=&quot;#10739e&quot;&gt;&lt;span&gt;&lt;br&gt;&lt;br&gt;&lt;/span&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=1;strokeColor=none;fillColor=#DDDDDD;align=left;arcSize=12;verticalAlign=top;whiteSpace=wrap;html=1;fontSize=12;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="-q0yBH8kULaY815FXZMG-55" value="&lt;b style=&quot;color: rgb(242 , 147 , 30)&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; v5.6.0&lt;/b&gt;&lt;font color=&quot;#10739e&quot;&gt;&lt;span&gt;&lt;br&gt;&lt;br&gt;&lt;/span&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=1;strokeColor=none;fillColor=#DDDDDD;align=left;arcSize=12;verticalAlign=top;whiteSpace=wrap;html=1;fontSize=12;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="250" y="636" width="400" height="158" as="geometry" />
         </mxCell>
-        <mxCell id="-q0yBH8kULaY815FXZMG-56" value="1、多种运行时支持&lt;br&gt;2、升级 K8S 到 v1.24.x&lt;br&gt;3、日志、ingress niginx 升级&lt;br&gt;4、harbor升级&amp;nbsp;&lt;br&gt;5、自动同步管理工作台中集群、租户、项目、用户等信息，使用&lt;br&gt;管理工作台，支持标准 OIDC&lt;br&gt;6、自定义指标告警能力及全局内置告警&lt;br&gt;7、TCE 瘦身，产品逐渐组件化&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;8、超卖比例自定义" style="text;html=1;" vertex="1" parent="1">
+        <mxCell id="-q0yBH8kULaY815FXZMG-56" value="1、多种运行时支持&lt;br&gt;2、升级 K8S 到 v1.24.x，支持多版本选择&lt;br&gt;3、日志、ingress nginx 升级&lt;br&gt;4、harbor升级&amp;nbsp;&lt;br&gt;5、自动同步管理工作台中集群、租户、项目、用户等信息，使用&lt;br&gt;管理工作台，支持标准 OIDC&lt;br&gt;6、自定义指标告警能力及全局内置告警&lt;br&gt;7、TCE 瘦身，产品逐渐组件化&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;8、超卖比例自定义" style="text;html=1;" parent="1" vertex="1">
           <mxGeometry x="280" y="655" width="386" height="125" as="geometry" />
         </mxCell>
       </root>
