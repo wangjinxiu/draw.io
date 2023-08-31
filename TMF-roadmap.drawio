@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2023-08-31T03:07:54.687Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="tZg_r_mFVuV_lBxnsN_0" version="21.6.9" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-31T03:10:01.184Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="6Y912wrCReyUVnD3RasW" version="21.6.9" type="github">
   <diagram id="LPxzDfarXafkQE6jDnBZ" name="Page-1">
     <mxGraphModel dx="1281" dy="-367" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="-Ru4AuKq-2Gei_yiUdHQ-51" value="" style="fillColor=#dddddd;rounded=0;strokeColor=none;" parent="1" vertex="1">
-          <mxGeometry x="-140" y="1154" width="936" height="30" as="geometry" />
+          <mxGeometry x="-140" y="1154" width="1097" height="29" as="geometry" />
         </mxCell>
         <mxCell id="-Ru4AuKq-2Gei_yiUdHQ-52" value="2023 Q3" style="shape=mxgraph.infographic.ribbonSimple;notch1=0;notch2=10;notch=0;html=1;fillColor=#10739E;strokeColor=none;shadow=0;fontSize=17;fontColor=#FFFFFF;align=left;spacingLeft=10;fontStyle=1;" parent="1" vertex="1">
           <mxGeometry x="115" y="1144" width="120" height="50" as="geometry" />
@@ -31,11 +31,8 @@
         <mxCell id="7" value="&lt;font style=&quot;font-size: 10px&quot;&gt;&lt;font style=&quot;font-size: 12px&quot; color=&quot;#F2931E&quot;&gt;&lt;b&gt;v6.0&lt;/b&gt;&lt;/font&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=1;strokeColor=none;fillColor=#DDDDDD;align=center;arcSize=12;verticalAlign=top;whiteSpace=wrap;html=1;fontSize=12;" parent="1" vertex="1">
           <mxGeometry x="252" y="1012" width="386" height="117" as="geometry" />
         </mxCell>
-        <mxCell id="8" value="&lt;font style=&quot;font-size: 10px&quot;&gt;&lt;font style=&quot;font-size: 12px&quot; color=&quot;#F2931E&quot;&gt;&lt;b&gt;v5.6.1&lt;br&gt;&lt;/b&gt;&lt;/font&gt;发布 fixpack 版本，提供 v5.6.0 的升级支持&lt;br&gt;&lt;/font&gt;" style="rounded=1;strokeColor=none;fillColor=#DDDDDD;align=center;arcSize=12;verticalAlign=top;whiteSpace=wrap;html=1;fontSize=12;" parent="1" vertex="1">
-          <mxGeometry x="312" y="1205.5" width="160" height="50" as="geometry" />
-        </mxCell>
         <mxCell id="9" value="&lt;div&gt;1、多语言服务治理优化（Golang、Python、Node、.Net）&lt;/div&gt;&lt;span style=&quot;white-space: nowrap&quot;&gt;2、&lt;/span&gt;基于 VPN、CloudIDE 等技术支持本地、云端的微服务开发、调试&lt;br&gt;&lt;span style=&quot;white-space: nowrap&quot;&gt;3、融合&lt;/span&gt;多种注册中心（企业现状的过渡）&lt;br&gt;&lt;span style=&quot;white-space: nowrap&quot;&gt;4、&lt;/span&gt;基于低代码方式重构部分产品模块&lt;br&gt;&lt;span style=&quot;white-space: nowrap&quot;&gt;5、继续优化 feature flag 的产品能力&lt;br&gt;&lt;/span&gt;" style="text;html=1;whiteSpace=wrap;" parent="1" vertex="1">
-          <mxGeometry x="269" y="1029" width="350" height="85" as="geometry" />
+          <mxGeometry x="270" y="1028" width="350" height="85" as="geometry" />
         </mxCell>
         <mxCell id="10" value="&lt;div&gt;&lt;/div&gt;&lt;div&gt;1、调研 Proxyless Mesh 并通过微服务治理进行集成&lt;/div&gt;&lt;div&gt;2、DAPR Java 客户端调研&lt;/div&gt;&lt;div&gt;3、提供丰富的开发脚手架，增强业务标准化的同时，提高业务开发的效率&lt;/div&gt;&lt;div&gt;4、研发结合低代码、feature flag 的新一代微服务开发框架&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="642" y="1226" width="330" height="85" as="geometry" />
@@ -56,10 +53,16 @@
           <mxGeometry x="-131" y="1287" width="159" height="54" as="geometry" />
         </mxCell>
         <mxCell id="kjNINUmJ4nMNvlj-G-Dl-15" value="&lt;b style=&quot;color: rgb(242 , 147 , 30)&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;TAPM v5.7.1&lt;/b&gt;&lt;font color=&quot;#10739e&quot;&gt;&lt;span&gt;&lt;br&gt;&lt;br&gt;&lt;/span&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=1;strokeColor=none;fillColor=#DDDDDD;align=left;arcSize=12;verticalAlign=top;whiteSpace=wrap;html=1;fontSize=12;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="69" y="1205.5" width="177" height="90" as="geometry" />
+          <mxGeometry x="69" y="1205.5" width="177" height="106.5" as="geometry" />
         </mxCell>
-        <mxCell id="kjNINUmJ4nMNvlj-G-Dl-16" value="1、Skywalking 升级至9.1.x&lt;br&gt;2、ES 配置支持选择 Basic/B&lt;br&gt;earer认证方式&lt;br&gt;3、新增服务监控能力&lt;br&gt;&lt;div&gt;&lt;/div&gt;" style="text;html=1;" vertex="1" parent="1">
+        <mxCell id="kjNINUmJ4nMNvlj-G-Dl-16" value="1、Skywalking 升级至9.1.x&lt;br&gt;2、ES 配置支持选择 Basic/B&lt;br&gt;earer认证方式&lt;br&gt;3、新增服务监控能力&lt;br&gt;4、融合kubebb&lt;br&gt;&lt;div&gt;&lt;/div&gt;" style="text;html=1;" vertex="1" parent="1">
           <mxGeometry x="80" y="1223.5" width="159" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="kjNINUmJ4nMNvlj-G-Dl-17" value="&lt;b style=&quot;color: rgb(242 , 147 , 30)&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;工作流 v1.0&lt;/b&gt;&lt;font color=&quot;#10739e&quot;&gt;&lt;span&gt;&lt;br&gt;&lt;/span&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=1;strokeColor=none;fillColor=#DDDDDD;align=left;arcSize=12;verticalAlign=top;whiteSpace=wrap;html=1;fontSize=12;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="325" y="1205.5" width="187" height="62" as="geometry" />
+        </mxCell>
+        <mxCell id="kjNINUmJ4nMNvlj-G-Dl-18" value="&lt;div&gt;&lt;/div&gt;&lt;div&gt;1、统一全平台产品审批流&lt;br&gt;&lt;/div&gt;&lt;div&gt;2、工作流能力&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="328" y="1229.5" width="177" height="41.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
