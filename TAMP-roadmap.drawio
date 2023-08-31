@@ -1,1 +1,43 @@
-<mxfile host="1tfvedkrbrp5agfv1vek11ttmnoqhqb0qdtdff8eo3t6ghmpr420" modified="2022-12-01T15:41:47.101Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_1) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.73.1 Chrome/102.0.5005.167 Electron/19.0.17 Safari/537.36" etag="vAFbkFYbK9DmoljtWRmn" version="12.2.4" pages="1"><diagram id="Ij6aHqkQ0AKCHX-e7K6y" name="Page-1">7Vldc5s4FP01emwGSSDEI2DczbSd6U46s8/YxjZTjFyMY2d//V59YTCQyXbJepKJH1pxJF2kc+89uiKIxrvz5yrdb7+JVVYg4qzOiM4QIUHgw78SeNIAdokGNlW+0pBzAR7yvzMzzqLHfJUdDKahWoiizvddcCnKMlvWHSytKnHqDluLYtUB9ukm6yxDAg/LtMh6w/7KV/VWo5z4F/yPLN9s7ZsxC3TPLrWDjeHDNl2JUwuiCaJxJUStW7tznBWSuy4v85HeZmFVVtYvmWB4f0yLo9mbWVf9ZDe7zosiFoWo1CNdqR+iUSWO5SqTdhx4OtSV+JnZcaUoYXbUX41Z4GNW1dm5BZnVfc7ELqurJxhieu0MEykedfXzqcW7a8jctjinBkuNqzeN5Qsb0DCEDJNDe+QQR4LOn7jHEjhyL5u780aG/F1eroVq5cu7Kl8sRPmQ7/ZydFSKernFhjf1APuf4ebJ9GzrXSFxaF65ADs+DZIx0puQkkbWoqxN/mDfPLcszdUP8LTINyVgRbaupY19uszLzVf1pJemLJn94ml8y658S/q+xWTAt94EvnVHfdvPgP/Tt3MSUPwOfEv8GzrXG3Uuvalzw8TFlLx957r8hs5lo851b+pcQl3Xm71957Lghs61FV6nIGFFbbba8S77dRS249NB0RnCAOzsz5dOaG3M///OCulagVrS+ucCUkzCMPLG37awwKN3x+6whYGFxfVQwPTarixUDZJ4iM8ReAcaEUdcxvw6P0NQ/IQWSnzEA8Q5ShgKYhTGKJmjKEY8loicCWNcFCUokPtRK3LMxCBE3FUvmCHuSyQKUegrUy4K58oCmMIDyxpb/1UqXspFPJYjVwk1U79WGiwhqLNKAtXSpo9UUxnbOVTnoRlXiz2gp21eZw/Ajhx3gqS/yt5WDpKJZNG9yhzO77x+7tjbTzt3XDZB7uA3lTum0nlh7jjPRt5vZNNH2I5dsTjtx6y9drVjlvkTxGy/VAN9o4g7IDY/wm/flUAxFHIUKuGDew+PlI7FKOBKsqDB+g4mjRmljJESRB+FkZofSPkEo1LpZijq1/zAXd1lfsgxU7AfdNhnzoBiYDqgGO4E7PvvVDE+9OI19cLhnZB17XevVsgSexS2Q5bzCUKWPyMYql5hKNKFDpegbEDuU5XpEQrmly7ihN/vTQEEIqALKw61FW2VRKA7iayZdENqkJ6eqIYukkCVqHq7FaNL4dUMbl4BWubIXuLcl5sqOxya1X+NutUYV2I3U/YdWdiNBiVcDMrBNFPB8emgo0MmWilUiPRSiHQ59BSHTL4ddk3m9+LHqxB1SSq9hX72/ZdNTUcPbdGjt85MZElve2rHRBHGUeTL4wUqcK4ojDDixNTuPByicOws67FysyPKfhW2CW+r1XbCk4Gq1psi4YN3e0bhj1Pq9U4phrtlrWsLrU7QsoFTaoKrGOl/xmifUj1lf05Y7c1bH2ChmhVpdWk+CDTnjZ4eSwUCCQY51ofcgP1xuR8f/KJjAArrSC0S1C4YiNH2URPIrw2SCKYYUZ8gpGmq5geqqzE9qJxXB4smgqubg33Nl+Mim6V1anuD2ykps9/SGiXl/aB0BoLyN5QUHi9/R1R9rT/G0uQf</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2023-08-31T03:24:27.181Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="PLPmtkwqOu2-e0LIHDyc" version="21.6.9" type="github">
+  <diagram id="Ij6aHqkQ0AKCHX-e7K6y" name="Page-1">
+    <mxGraphModel dx="985" dy="84" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="2" value="" style="fillColor=#dddddd;rounded=0;strokeColor=none;" parent="1" vertex="1">
+          <mxGeometry x="21" y="534" width="840" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3" value="2023 Q3" style="shape=mxgraph.infographic.ribbonSimple;notch1=0;notch2=10;notch=0;html=1;fillColor=#10739E;strokeColor=none;shadow=0;fontSize=17;fontColor=#FFFFFF;align=left;spacingLeft=10;fontStyle=1;" parent="1" vertex="1">
+          <mxGeometry x="61" y="524" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="4" value="2023 Q4" style="shape=mxgraph.infographic.ribbonSimple;notch1=0;notch2=10;notch=0;html=1;fillColor=#F2931E;strokeColor=none;shadow=0;fontSize=17;fontColor=#FFFFFF;align=left;spacingLeft=10;fontStyle=1;" parent="1" vertex="1">
+          <mxGeometry x="271" y="524" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="5" value="2024 Q1" style="shape=mxgraph.infographic.ribbonSimple;notch1=0;notch2=10;notch=0;html=1;fillColor=#AE4132;strokeColor=none;shadow=0;fontSize=17;fontColor=#FFFFFF;align=left;spacingLeft=10;fontStyle=1;" parent="1" vertex="1">
+          <mxGeometry x="481" y="524" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="6" value="2024 Q2" style="shape=mxgraph.infographic.ribbonSimple;notch1=0;notch2=10;notch=0;html=1;fillColor=#23445D;strokeColor=none;shadow=0;fontSize=17;fontColor=#FFFFFF;align=left;spacingLeft=10;fontStyle=1;" parent="1" vertex="1">
+          <mxGeometry x="691" y="524" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="11" value="&lt;font style=&quot;font-size: 10px&quot;&gt;&lt;font style=&quot;font-size: 12px&quot; color=&quot;#F2931E&quot;&gt;&lt;b&gt;v5.7.0&lt;br&gt;&lt;/b&gt;&lt;/font&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=1;strokeColor=none;fillColor=#DDDDDD;align=center;arcSize=12;verticalAlign=top;whiteSpace=wrap;html=1;fontSize=12;" parent="1" vertex="1">
+          <mxGeometry x="21" y="582" width="227" height="158" as="geometry" />
+        </mxCell>
+        <mxCell id="15" value="1、网关环境接入链路&lt;br&gt;2、熔断插件增加&lt;br&gt;3、单服务多实例负载均衡策略&lt;br&gt;4、协议转换： GRPC服务代理&lt;br&gt;5、消费者黑/白名单&lt;br&gt;6、注册中心统一网关&lt;br&gt;7、支持keyauth认证插件&lt;br&gt;8、网关环境并发连接数限流&lt;br&gt;9、融合kubebb&lt;p&gt;&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="29.5" y="597.5" width="210" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="17" value="&lt;font style=&quot;font-size: 10px&quot;&gt;&lt;font style=&quot;font-size: 12px&quot; color=&quot;#F2931E&quot;&gt;&lt;b&gt;v6.0&lt;br&gt;&lt;/b&gt;&lt;/font&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=1;strokeColor=none;fillColor=#DDDDDD;align=center;arcSize=12;verticalAlign=top;whiteSpace=wrap;html=1;fontSize=12;" parent="1" vertex="1">
+          <mxGeometry x="263" y="425" width="241" height="88" as="geometry" />
+        </mxCell>
+        <mxCell id="18" value="1、新一代统一 API 网关的设计与产品化，与网格 Ingress、LB 的融合&lt;br&gt;&lt;span style=&quot;white-space: nowrap&quot;&gt;2、数据/IoT 网关的设计与产品化&lt;/span&gt;&lt;br style=&quot;white-space: nowrap&quot;&gt;&lt;span style=&quot;white-space: nowrap&quot;&gt;3、其他客户需求及网关优化&lt;/span&gt;" style="text;html=1;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="277" y="444" width="227" height="58" as="geometry" />
+        </mxCell>
+        <mxCell id="19" value="&lt;font style=&quot;font-size: 10px&quot;&gt;&lt;font style=&quot;font-size: 12px&quot; color=&quot;#F2931E&quot;&gt;&lt;b&gt;v6.1.0&lt;br&gt;&lt;/b&gt;&lt;/font&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=1;strokeColor=none;fillColor=#DDDDDD;align=center;arcSize=12;verticalAlign=top;whiteSpace=wrap;html=1;fontSize=12;" parent="1" vertex="1">
+          <mxGeometry x="609" y="582" width="226" height="86" as="geometry" />
+        </mxCell>
+        <mxCell id="20" value="1、融合网关的持续开发，兼顾 API网关、数据网关、IoT 网关的能力&lt;br&gt;2、重构当前的网关产品（TAMP、KubeData）" style="text;html=1;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="622" y="601" width="206" height="58" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
