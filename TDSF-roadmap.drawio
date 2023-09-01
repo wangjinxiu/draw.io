@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-31T02:58:05.943Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="uTpTU7IfY7IuKQzlEdFh" version="21.6.9" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-01T01:41:06.921Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="ayU30HA0awuNYLRGxDtN" version="21.6.9" type="github">
   <diagram id="LPxzDfarXafkQE6jDnBZ" name="Page-1">
     <mxGraphModel dx="1015" dy="98" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -20,15 +20,15 @@
           <mxGeometry x="760" y="810" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="41" value="&lt;b style=&quot;color: rgb(242 , 147 , 30)&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;v6.0&lt;/b&gt;&lt;font color=&quot;#10739e&quot;&gt;&lt;span&gt;&lt;br&gt;&lt;br&gt;&lt;/span&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=1;strokeColor=none;fillColor=#DDDDDD;align=left;arcSize=12;verticalAlign=top;whiteSpace=wrap;html=1;fontSize=12;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="320" y="658" width="397" height="138" as="geometry" />
+          <mxGeometry x="318" y="611" width="502" height="196" as="geometry" />
         </mxCell>
         <mxCell id="44" value="&lt;font style=&quot;font-size: 10px&quot;&gt;&lt;font style=&quot;font-size: 12px&quot; color=&quot;#23445D&quot;&gt;&lt;b&gt;v6.1.0&lt;/b&gt;&lt;/font&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=1;strokeColor=none;fillColor=#DDDDDD;align=center;arcSize=12;verticalAlign=top;whiteSpace=wrap;html=1;fontSize=12;" parent="1" vertex="1">
-          <mxGeometry x="630" y="874" width="279" height="96" as="geometry" />
+          <mxGeometry x="630" y="874" width="276" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="48" value="1、Messaging Mesh 调研及设计&lt;br&gt;2、升级 istio 到 v1.16.x&lt;br&gt;3、多种外部注册中心接入优化&lt;br&gt;4、集成混沌工程（故障注入、模拟能力）&lt;br&gt;5、Ingress 与 API 网关的架构融合&lt;br&gt;6、更多协议治理能力（数据面增强扩展）&lt;br&gt;7、" style="text;html=1;" parent="1" vertex="1">
-          <mxGeometry x="328.5" y="679" width="380" height="112" as="geometry" />
+        <mxCell id="48" value="1、无sidecar模式网格能力支持&lt;br&gt;2、支持istio多主集群部署，考虑通过karmada管理多集群治理策略&lt;br&gt;3、sidecar插件动态扩展&lt;br&gt;1）支持基于插件能力扩展 Sidecar 能力，对接第三方系统&lt;br&gt;2）基于插件能力支持多协议场景，插件可被 Sidecar 动态加载，无须修改 Sidecar 源代码&lt;br&gt;3）支持插件的上传、版本管理、协议转换配置&lt;br&gt;4、JWT身份认证&lt;br&gt;5、istio升级&lt;br&gt;6、Ingress与API网关的架构融合(支持GatewayAPI)&lt;br&gt;7、更多协议治理能力（dubbo服务的治理优化、数据面增强扩展等）&lt;p style=&quot;margin: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-stretch: normal; font-size: 13px; line-height: normal; font-family: &amp;quot;PingFang SC&amp;quot;;&quot; class=&quot;p2&quot;&gt;8、引入&lt;span style=&quot;font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-stretch: normal; line-height: normal; font-family: &amp;quot;Helvetica Neue&amp;quot;;&quot; class=&quot;s1&quot;&gt;ebpf&lt;/span&gt;优化可观测性、数据面转发性能&lt;/p&gt;" style="text;html=1;" parent="1" vertex="1">
+          <mxGeometry x="326.5" y="632" width="380" height="112" as="geometry" />
         </mxCell>
-        <mxCell id="52" value="1、DAPR 与网格的融合&lt;br&gt;2、Messaging Mesh 支持研发&lt;br&gt;3、替换传统 ESB 能力（协议转换、消息路由等）&lt;br&gt;4、数据安全（加密、脱敏）支持" style="text;html=1;" parent="1" vertex="1">
+        <mxCell id="52" value="1、数据安全（加密、脱敏、国密）支持" style="text;html=1;" parent="1" vertex="1">
           <mxGeometry x="643" y="898" width="222" height="55" as="geometry" />
         </mxCell>
         <mxCell id="53" value="&lt;b style=&quot;color: rgb(242 , 147 , 30)&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; v5.7.0&lt;/b&gt;&lt;font color=&quot;#10739e&quot;&gt;&lt;span&gt;&lt;br&gt;&lt;br&gt;&lt;/span&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=1;strokeColor=none;fillColor=#DDDDDD;align=left;arcSize=12;verticalAlign=top;whiteSpace=wrap;html=1;fontSize=12;fontStyle=1" parent="1" vertex="1">
